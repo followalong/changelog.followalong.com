@@ -24,9 +24,10 @@ description: Follow Along
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: jekyll-bear-theme
-remote_theme: knhash/jekyllBear
+# theme: jekyll-bear-theme
+remote_theme: followalong/jekyllBear
 plugins:
+  - jekyll-remote-theme
   - jekyll-redirect-from
 
 whitelist:
