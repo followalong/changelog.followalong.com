@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Path to V3
-tags: fiction
+tags: changelog
 ---
 
 Thanks for stopping by!

@@ -1,0 +1,7 @@
+---
+layout: post
+title: "1.2.0: Addons"
+tags: changelog
+---
+
+Re-organized and renamed Addons, including the ability to use and re-use templates.

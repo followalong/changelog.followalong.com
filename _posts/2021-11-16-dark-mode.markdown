@@ -1,0 +1,7 @@
+---
+layout: post
+title: "1.2.4: Dark mode and more!"
+tags: changelog
+---
+
+Add dark mode, use cases, and many optimizations.
