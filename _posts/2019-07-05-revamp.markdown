@@ -1,7 +1,0 @@
----
-layout: post
-title: "1.1.0: Revamp"
-tags: changelog
----
-
-Re-skinned the entire project, fixed audio embeds, and set up the "smart" categories of Watch, Read, and Listen.
